@@ -1,4 +1,3 @@
-# search-by-slug
 Search by Slug WordPress Plugin
 
 Search by Slug is a WordPress plugin that enables searching posts, pages, and post types by slug inside the WordPress admin area.
@@ -18,6 +17,16 @@ The plugin allows searching by slug in the following areas of the WordPress admi
     /wp-admin/nav-menus.php
 
 To search by slug, prefix your search query with 'slug:', for example: 'slug:about'. This will return all posts, pages, or post types with "about" in their slug.
+Tested up to
+
+The plugin has been tested up to WordPress version 6.1.1.
+Stable tag
+
+The stable tag for this plugin is "trunk".
+Contributors
+
+    Eugene Gorbach
+
 Development
 
 The plugin is developed using PHP and WordPress' $wpdb class to modify search queries.
