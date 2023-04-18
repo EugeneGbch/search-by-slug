@@ -1,7 +1,6 @@
 === Search by Slug ===
 
 Contributors: eugenegbch
-
 Tags: search, post, slug
 
 Requires PHP: 5.0
@@ -15,7 +14,9 @@ Stable Tag: 1.0.0
 Creation time: 18.04.2023
 
 Last updated time: 18.04.2023
+
 License: GPLv3
+
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
  
 == Description ==
