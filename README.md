@@ -1,7 +1,8 @@
 === Search by Slug ===
 
-*Contributors: eugenegbch
-*Tags: search, post, slug
+Contributors: eugenegbch
+
+Tags: search, post, slug
 
 Requires PHP: 5.0
 
